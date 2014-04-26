@@ -1,4 +1,4 @@
-## we devlop 2 function in this scriot
+## we develop 2 function in this script
 ## makeCacheMatrix creates a special matrix object, and calculate the inverse
 ## cacheSolve calculates the inverse of a given matrix.
 
